@@ -2,6 +2,10 @@
 #### I am a computer engineering student
 I am Claud Edmond Charles from Haiti, and I am currently learning computer engineering. I am learning languages and frameworks like react, Django etc... I also enjoy network programming, hacking and embeded systems
 
+
+![Profile views](https://gpvc.arturio.dev/EdmondCharles1) 
+
+
 Skills: C/C++/VUE JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Web Developement 
@@ -14,4 +18,4 @@ Skills: C/C++/VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/EdmondCharles1)  
 
-![Profile views](https://gpvc.arturio.dev/EdmondCharles1)  
+ 
